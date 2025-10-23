@@ -1,4 +1,4 @@
-# LeNet from scratch with tensorflow
+# VGG19 from scratch pytorch
 
 
 
