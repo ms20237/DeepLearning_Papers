@@ -1,4 +1,4 @@
-# LeNet from scratch with tensorflow
+# AlexNet from scratch pytorch
 
 
 
