@@ -1,5 +1,4 @@
 # DeepLearning Paper Implementations
-# DeepLearning_Papers
 
 ## About
 This repository contains implementations of popular deep learning papers from scratch using frameworks like PyTorch and TensorFlow. The goal is to provide clear, educational examples for students and researchers who want to understand the inner workings of classic and modern neural network architectures.
